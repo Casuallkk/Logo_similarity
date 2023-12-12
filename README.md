@@ -8,7 +8,7 @@
 
 网络架构如下：
 
-<img title="" src="file:///E:/Pythonfiles/srtp/Siamese_pytorch_master/pictures/architecture.png" alt="" width="344" data-align="center">
+<img title="" src="file://pictures/architecture.png" alt="" width="344" data-align="center">
 
 ### 最终效果
 
@@ -18,9 +18,9 @@
 
 综合来看，使用RepVGG作为主干网络可将模型平均检测正确率和平均检测效率分别提高8.1%和18.4%
 
-<img title="" src="file:///E:/Pythonfiles/srtp/Siamese_pytorch_master/pictures/accuracy.png" alt="" width="441">
+<img title="" src="file://pictures/accuracy.png" alt="" width="441">
 
-<img title="" src="file:///E:/Pythonfiles/srtp/Siamese_pytorch_master/pictures/time.png" alt="" width="425">
+<img title="" src="file://pictures/time.png" alt="" width="425">
 
 ### References：
 
